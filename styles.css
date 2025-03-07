@@ -167,3 +167,16 @@
     font-weight: 600;
     color: #e5e7eb;
 }
+
+.block5{
+    background-color: #1F2937;
+}
+
+.block5 .copyright{
+    padding: 40px;
+    color: #E5E7EB;
+    font-family:"Roboto", sans-serif; 
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
