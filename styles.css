@@ -28,14 +28,16 @@
 
 .logobar-list li{
     color: #F9FAF8;
-    font-size: 24px;
-    font-weight: 600;
     margin-left: 80px;
+    font-size: 28px;
+    font-weight: 600;
 }
 
 .navbar-list li a{
     color: #e5e7eb;
     text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
 
 }
 
@@ -57,4 +59,19 @@
     font-weight: 400;
     font-size: 18px;
     color: #e5e7eb;
+    margin-bottom: 10px;
+}
+
+.sign-up{
+    background-color: #236ee7;
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: 600;
+    padding:8px 35px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.sign-up:hover{
+    background-color: #4289fb;
 }
