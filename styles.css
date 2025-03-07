@@ -75,3 +75,20 @@
 .sign-up:hover{
     background-color: #4289fb;
 }
+
+.block2{
+    background-color: #F9FAF8;   
+    font-family: "Roboto", sans-serif; 
+}
+
+.block2-title{
+    margin-top: 40px;
+    font-size: 40px;
+    color: #1F2937;
+    font-weight: 800;
+    text-align: center;
+}
+
+.block2-section1{
+    display: flex;
+}
