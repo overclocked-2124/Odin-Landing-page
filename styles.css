@@ -1,0 +1,40 @@
+.block1{
+    background-color: #1F2937;
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-list{
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    gap: 3rem;
+    margin-right: 130px;
+
+}   
+
+.logobar-list{
+    display: flex;
+    list-style: none;
+    justify-content: left;
+        
+}
+
+.logobar-list li{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 80px;
+}
+
+.navbar-list li a{
+    color: #e5e7eb;
+    text-decoration: none;
+
+}
