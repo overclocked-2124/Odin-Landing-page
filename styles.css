@@ -38,3 +38,23 @@
     text-decoration: none;
 
 }
+
+.block1-subsection2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    align-items: center;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    width: 450px;
+}
+
+.title-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #e5e7eb;
+}
