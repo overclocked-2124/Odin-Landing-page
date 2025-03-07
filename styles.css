@@ -63,6 +63,7 @@
 }
 
 .sign-up{
+    
     background-color: #236ee7;
     color: #F9FAF8;
     font-size: 20px;
@@ -134,4 +135,35 @@
     text-align: center;
     width: 60%;
 
+}
+
+.block4{
+    background-color: #F9FAF8;
+    font-family: "Roboto", sans-serif; 
+    display: flex;
+    justify-content: center;
+}
+
+.block4 .block4-section1{
+    width: 60%;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    padding: 50px ;
+    border-radius: 15px;
+    background-color: #4289fb ;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.block4 .block4-section1 .block4-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #F9FAF8;
+}
+
+.block4 .block4-section1 .block4-discription{
+    font-size: 20px;
+    font-weight: 600;
+    color: #e5e7eb;
 }
